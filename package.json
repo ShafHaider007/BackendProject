@@ -1,0 +1,20 @@
+{
+  "name": "jsbackend",
+  "version": "1.0.0",
+  "description": "A detailed project on how to handle or create production grade backend in javascript",
+  "homepage": "https://github.com/ShafHaider007/BackendProject#readme",
+  "bugs": {
+    "url": "https://github.com/ShafHaider007/BackendProject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShafHaider007/BackendProject.git"
+  },
+  "license": "ISC",
+  "author": "Shaf Haider",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
